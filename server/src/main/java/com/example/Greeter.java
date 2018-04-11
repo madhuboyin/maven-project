@@ -10,6 +10,10 @@ public class Greeter {
    */
   public Greeter() {
 
+  /**
+   * This is a comment.
+   */
+
   }
 
     public final String greet(final String someone) {
